@@ -8,6 +8,7 @@
 /click StaticPopup1Button1
 
 <br>
+
 ### Keybind with modifier for off hand. Shift used in this example, can be changed to alt, ctrl, etc.
 > #showtooltip -item name-<br>
 /use -item name-<br>
