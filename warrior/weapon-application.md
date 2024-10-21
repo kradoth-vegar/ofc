@@ -1,5 +1,5 @@
 # Weapon application macro
-*For consumables like sharpening stones, poisons, oils, etc.*
+**For consumables like sharpening stones, poisons, oils, etc.**
 
 ### Left click for main hand, right click for off hand
 > #showtooltip -item name-<br>
