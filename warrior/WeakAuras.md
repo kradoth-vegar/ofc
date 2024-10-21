@@ -1,6 +1,6 @@
 # Warrior WeakAuras 
 **Useful WeakAuras for any warrior**
-<br>
+<br><br>
 
 ### Clickable Warrior Consumes
 > https://wago.io/kAf9uX1Ce
