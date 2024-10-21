@@ -9,6 +9,7 @@ for consumables like sharpening stones, poisons, oils, etc.
 
 
 ***Keybind with modifier for off hand. Shift used in this example, can be changed to alt, ctrl, etc.***
+
 #showtooltip *item name*
 /use *item name*
 /use [nomod]16; [mod:shift]17
